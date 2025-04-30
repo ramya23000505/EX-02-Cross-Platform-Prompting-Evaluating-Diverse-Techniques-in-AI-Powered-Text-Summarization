@@ -171,7 +171,25 @@ The system is designed to tailor product recommendations based on user preferenc
 - Include user feedback loop to rate actual recommendation success
 - Test across mobile vs. desktop interfaces
 - Add Gemini and Copilot to evaluation matrix
+--- 
+
+## 🔍 INSIGHTS
+
+- **ChatGPT** excelled in clarity and actionable advice.
+- **Claude** performed better with inferential and less explicit prompts.
+
+---
+
+## ✅ RESULT: Prompt Performance Summary
+
+| Prompt Type               | Best Performing Platform | Summary of Findings                                                  |
+|---------------------------|---------------------------|-----------------------------------------------------------------------|
+| **Straightforward Prompt** | ChatGPT                   | Delivered concise, high-relevance responses with a friendly tone and well-aligned product suggestions. |
+| **Tabular Format Prompting** | Tie (ChatGPT & Claude)    | Both platforms understood and utilized structured input effectively for precise personalization. |
+| **Missing Word Prompting** | Claude                    | Demonstrated more creativity and product diversity through inferential reasoning. |
+
+---
 
 ## Result
-
+Thus, the summarized Result section based on the experiment using the three prompt types (Straightforward, Tabular Format, Missing Word) and two AI platforms (ChatGPT and Claude).
 
